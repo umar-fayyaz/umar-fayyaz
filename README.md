@@ -64,10 +64,3 @@ I specialize in bridging the gap between cutting-edge AI research and scalable, 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
----
-<div align="center">
-  <a href="https://github.com/umar-fayyaz">
-    <img src="https://komarev.com/ghpvc/?username=umar-fayyaz&style=flat-square&color=blue" alt="Profile Views" />
-  </a>
-</div>
